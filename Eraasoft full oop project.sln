@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eraasoft full oop project", "Eraasoft full oop project\Eraasoft full oop project.csproj", "{58FB9BAB-8A41-4721-B3E4-8A2C8291F3A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58FB9BAB-8A41-4721-B3E4-8A2C8291F3A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FB9BAB-8A41-4721-B3E4-8A2C8291F3A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FB9BAB-8A41-4721-B3E4-8A2C8291F3A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FB9BAB-8A41-4721-B3E4-8A2C8291F3A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06F967AD-45C8-4FA8-9A68-A82F7A7822E8}
+	EndGlobalSection
+EndGlobal
